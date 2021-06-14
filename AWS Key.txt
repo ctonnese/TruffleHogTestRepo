@@ -1,2 +1,9 @@
 AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 password: 123
+password = usingGitHound
+AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+password: 123
+password = usingGitHound
+AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+password: 123
+password = usingGitHound
