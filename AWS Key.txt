@@ -1,3 +1,2 @@
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-password: 123sadsdadsasdadsa
-password = usingGitHoundawdawdawdawwdwda
+AWSSecretKey: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
