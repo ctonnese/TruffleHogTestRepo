@@ -1,18 +1,3 @@
 AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 password: 123
 password = usingGitHound
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-password: 123
-password = usingGitHound
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-password: 123
-password = usingGi
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiC
-password: 123
-password = usingGitHound
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-password: 123
-password = usingGitHound
-AwsKey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-password: 123
-password = usingGitHound
